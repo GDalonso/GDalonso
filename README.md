@@ -1,5 +1,8 @@
-## Here's some of the stuff i already had fun with
+# Hi, i'm Gui
 
+- I am a software engineer from São Paulo, BR
+
+# Here's some of the stuff i have fun with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -33,7 +36,7 @@
 
 <div> 
 <br><br>
-  <a href = "mailto:guicastro.200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilherme@dalonso.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-dalonso-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GDalonso/GDalonso/blob/output/github-contribution-grid-snake.svg)
